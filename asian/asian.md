@@ -1,9 +1,9 @@
 # Bay Ridge Restaurant Guide
-## Asian
+## [Asian
 ---
 Select a specific Asian food:
 ## [Chinese]( https://www.pandabrooklyn.com/)
 ## Japanese
 ## Thai
 ---
-Start Over
+[Start Over](../home.md)
