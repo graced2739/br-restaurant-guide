@@ -1,8 +1,8 @@
 # Bay Ridge Restaurant Guide
-## Asian --> [Chinese](../chinese.md)
+## Asian --> Chinese
 ---
 Select a restaurant:
 ## [Panda](https://www.pandabrooklyn.com/)
 ---
-Back to Asian
-Start Over
+[Back to Asian](../asian)
+[Start Over](../home.md)
