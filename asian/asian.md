@@ -4,6 +4,6 @@
 Select a specific Asian food:
 ## [Chinese]( https://www.pandabrooklyn.com/)
 ## Japanese
-## Thai
+## [Thai](http://glowthai.com/)
 ---
 [Start Over](../home.md)
