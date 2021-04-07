@@ -1,4 +1,4 @@
-cd # Bay Ridge Restaurant Guide
+# Bay Ridge Restaurant Guide
 ## Asian
 Select a specific Asian food:
 ## [Chinese](chinese.md)
