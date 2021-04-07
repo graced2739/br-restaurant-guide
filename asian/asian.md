@@ -2,7 +2,7 @@
 ## Asian
 ---
 Select a specific Asian food:
-## Chinese
+## [Chinese]( https://www.pandabrooklyn.com/)
 ## Japanese
 ## Thai
 ---
